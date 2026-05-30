@@ -3,6 +3,7 @@
 In this end-to-end tutorial, we work on a real-world financial fraud problem and show how machine learning models can help banks identify suspicious transactions and reduce financial losses.
 
 We walk through the complete process, from understanding raw transaction data to building strong fraud detection models.
+
 Following things will be covered in this project:
 
 ✅ How to understand a real fraud detection business problem
