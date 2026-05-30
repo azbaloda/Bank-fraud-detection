@@ -15,3 +15,5 @@ Following things will be covered in this project:.<br>
 ✅ How to tune decision thresholds to reduce false positives.<br>
 ✅ How to check model performance using a confusion matrix and fraud recall.<br>
 ✅ How machine learning fraud systems help reduce financial risk in production.<br>
+
+Data source - https://github.com/nightfury217836/Bank-Fraud-Prediction/blob/main/Assigment%20Task.pdf
